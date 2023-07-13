@@ -22,3 +22,12 @@ public class Main {
 
     }
 }
+"C:\Program Files\Java\jdk-20\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.3\lib\idea_rt.jar=54446:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Natalia\Weather_Forecast\out\production\Weather_Forecast Main
+Weather forecast!
+ Monday 28 c, sunny
+Tuesday 27 c, partly cloudy 
+Wednesday 25 c, strong wind
+Thursday 23 c, thunderstorm
+Friday 19 c, rain with hail
+Saturday 21 c, rainy
+Sunday 23 c, sunny
